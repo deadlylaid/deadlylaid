@@ -1,4 +1,4 @@
-# Jade Han ✨ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeadlylaid%2Fhit-counter&count_bg=%23EDDA48&title_bg=%23D1B877&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Jade Han ✨
 
 
 - 문제를 해결하는데 집중합니다.
